@@ -1,0 +1,63 @@
+body {
+  background-color: #111D4A;
+}  
+#quote-box {
+  box-shadow: 5px 5px 15px #5E6373;
+  background-color: #95969D;
+  margin: 8% auto auto auto;
+  width: 500px;
+  height: 100px;
+  padding: 40px 50px;
+  display: table;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 2%;
+  positiion: relative;
+    
+}
+#text {
+  font-size: 30px
+}
+#title {
+  padding: 10px 10px 10px 10px;
+}
+.author {
+  color: white;
+  font-family: "Dancing Script", cursive;
+  font-size: 25px;
+  text-align: right;
+  padding: 5px 15px 5px 5px
+  
+  
+}
+
+.tweet-quote {
+  margin-top: 10px;
+}
+#teacher {
+  margin-top: 10px;
+}
+#new-quote {
+  float: right;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 15px;
+  
+}
+
+.button {
+  margin-top: 10px;
+}
+
+.footer {
+  text-align: center;
+  color: white;
+  margin-top: 5px;
+  font-size: 1em;
+  font-family: 'Roboto Slab', serif;
+}
+.footer a {
+  color: white;
+  text-decoration: none;
+  font-weight: 300
+}
